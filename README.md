@@ -17,7 +17,9 @@ Me purgunte qualquer coisa (QUALQUER COISA) sobre ultrakill. :D
 <p align="center">
   <img src="minos prime" width="500" alt="GIF" style="border-radius: 12px;"/>
 </p>
+
 <img src="URL_IMAGEM" width="450" alt="GIF" style="border-radius: 0px;"/>
+
 <p align="center">
   <img src="https://media.giphy.com/media/OFeM2KR8xoG06J3F4M/giphy.gif" width="500" alt="GIF" style="border-radius: 12px;"/>
 </p>
